@@ -1,5 +1,6 @@
 {
   "name": "chap-links-library",
+  "version": "2013.2.1",
   "ignore": [
     "gwt/",
     "js/tools/",

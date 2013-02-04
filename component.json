@@ -1,0 +1,8 @@
+{
+  "name": "chap-links-library",
+  "ignore": [
+    "gwt/",
+    "js/tools/",
+    "js/src/*/tests/"
+  ]
+}
